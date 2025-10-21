@@ -73,7 +73,7 @@
 |   9  | Trusted Connector             |           | https://github.com/Fraunhofer-AISEC/trusted-connector               |
 
 
-![替代文本](图片路径)
+![替代文本](./2.png)
 
 ## 3.核心技术相关
 
